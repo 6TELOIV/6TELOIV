@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**6TELOIV/6TELOIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Violet 🏳️‍⚧️, a full stack web developer, with hobby interests in retro game development. 
 
-Here are some ideas to get you started:
+## Skills and Interests
+- ⚛️ React and React Native
+- 🥪 Next.js and Expo
+- :accessibility: Accessible Design
+- 🐘 PostgreSQL
+- ⌨️ Typescript
+- ☕ Javascript
+- 🦀 Rust (hobbyist, but I'd like to learn more!)
+- :feelsgood: Retro console game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- <img alt="" src="https://www.grotto-bestiary.com/images/emotes/cost.png" style="height:1em;width:1em"> [Grotto Bestiary](https://www.grotto-bestiary.com) - The best site to collect and trade cards from the Jerma985 Grotto Beasts TCG
+- 🆕 esun ([meaning trade or barter in toki pona](https://nimi.li/esun)) - The best site to collect and trade cards from any trading card game (coming soon) 
