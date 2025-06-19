@@ -10,7 +10,7 @@ I'm Violet 🏳️‍⚧️, a full stack web developer, with hobby interests in
 - ⌨️ Typescript
 - ☕ Javascript
 - 🦀 Rust (hobbyist, but I'd like to learn more!)
-- :feelsgood: Retro console game development
+- :feelsgood: Game development (Godot, AGB Rust, Bevy)
 
 ## Projects
 - <img alt="" src="https://www.grotto-bestiary.com/images/emotes/cost.png" style="height:1em;width:1em"> [Grotto Bestiary](https://www.grotto-bestiary.com) - The best site to collect and trade cards from the Jerma985 Grotto Beasts TCG
