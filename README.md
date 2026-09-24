@@ -12,15 +12,15 @@ I'm Violet 🏳️‍⚧️, a full stack web developer, with hobby interests in
   - 🧱 HTML
   - 🫗 CSS
   - ☕ Javascript
-  - ⌨️ Typescript
-  - 🏭 Static Site Generators
+  - ⌨️ [Typescript](https://www.typescriptlang.org/)
+  - 🏭 Static Site Generators (such as [Eleventy, aka Build Awesome](https://www.11ty.dev/))
 - 🦀 Rust (hobbyist, but I'd love to learn more)
 - 🐘 PostgreSQL
 - :feelsgood: Game development
-  - 🕊️ Bevy
-  - 🤖 Godot
-  - 👾 AGB
-  - ❇️ Pico8
+  - 🕊️ [Bevy](https://bevy.org/)
+  - 🤖 [Godot](https://godotengine.org/)
+  - 👾 [AGB](https://agbrs.dev/)
+  - ❇️ [Pico8](https://www.lexaloffle.com/pico-8.php)
 
 ## Gnocchi?
 <details>
