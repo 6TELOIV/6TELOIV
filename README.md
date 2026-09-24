@@ -14,8 +14,8 @@ I'm Violet 🏳️‍⚧️, a full stack web developer, with hobby interests in
   - ☕ Javascript
   - ⌨️ [Typescript](https://www.typescriptlang.org/)
   - 🏭 Static Site Generators (such as [Eleventy, aka Build Awesome](https://www.11ty.dev/))
-- 🦀 Rust (hobbyist, but I'd love to learn more)
-- 🐘 PostgreSQL
+- 🦀 [Rust](https://rust-lang.org/) (hobbyist, but I'd love to learn more)
+- 🐘 [PostgreSQL](https://www.postgresql.org/)
 - :feelsgood: Game development
   - 🕊️ [Bevy](https://bevy.org/)
   - 🤖 [Godot](https://godotengine.org/)
